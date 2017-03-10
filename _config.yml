@@ -1,0 +1,107 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Zanimljivosti
+layout_spectrum: 0.09619967080652714
+typography_spectrum: 0.43363579898141325
+color:
+  brandStrength: 0.2720122351311147
+  lightness: 0.3365196939557791
+  saturation: 0.48236197838559747
+  rhythmicContrast: 0.058525800704956055
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOvj3gZ-DwcU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOvj3gZ-DwcU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOvj3gZ-DwcU%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: CONNECT/Tržišne komunikacije
+          url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      keywords:
+        - naslovna
+        - strana
+        - duration
+        - views
+        - kviz
+        - nikola
+        - sre
+        - svet
+        - mori
+        - rouzin
+      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
+      inLanguage: en
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=Ovj3gZ-DwcU'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=Ovj3gZ-DwcU
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=Ovj3gZ-DwcU
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
+      title: Naslovna
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'http://zanimljivosti.connect365.online/'
+title: 'Grafički i Web Dizajn, Internet Marketing'
+description: Pročitajte neke zanimljivosti i saznajte novosti
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/57ef3efa-6616-4df3-ae5d-dcb648a71a15.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39943f45-1ab9-40d7-8e4e-ace711276449.png
