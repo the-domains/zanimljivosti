@@ -41,7 +41,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/866c9396-65d0-4eb0-b049-e67eaa16325e.png
-title: Zanimljivosti
+title: Zanimljivosti i korisne informacije
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
