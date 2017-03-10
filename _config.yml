@@ -125,7 +125,7 @@ purpose:
   - type: external
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
-    label: Zatražite ponudu
+    label: Zatraži ponudu
   - type: contact
     url: 'tel:38763313588'
     label: Pozovi 38763313588
