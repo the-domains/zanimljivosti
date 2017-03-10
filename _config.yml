@@ -126,3 +126,6 @@ purpose:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
     label: Zatražite ponudu
+  - type: contact
+    url: 'tel:38763313588'
+    label: Tel 38763313588
