@@ -121,3 +121,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Pročitajte i saznajte novosti koje smo prikupili za vas
+purpose:
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
+    label: Zatražite ponudu
