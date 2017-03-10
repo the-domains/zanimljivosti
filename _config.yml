@@ -39,6 +39,9 @@ navigation:
   - name: Zanimljivosti
     url: 'http://zanimljivosti.connect365.online/'
     type: external
+  - name: Kontakt
+    url: 'http://connect365.online/o-nama'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/866c9396-65d0-4eb0-b049-e67eaa16325e.png
 title: 'Grafički i Web Dizajn, Internet Marketing'
