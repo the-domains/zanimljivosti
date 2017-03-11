@@ -1,3 +1,16 @@
+layout_spectrum: 0.10234028380041445
+typography_spectrum: 0.5762623165990456
+color:
+  lightness: 0.9361866333016592
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.2431790333030063
+  brandStrength: 0.9974764048786705
+  rhythmicContrast: 0.05049392376924948
 name: Agencija Connect Zanimljivosti
 analytics:
   google: UA-19682937-18
@@ -125,23 +138,10 @@ navigation:
   - type: external
     name: Kontakt
     url: 'http://connect365.online/o-nama'
-layout_spectrum: 0.09619967080652714
-color:
-  lightness: 0.3365196939557791
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  saturation: 0.4823619783855975
-  brandStrength: 0.2720122351311147
-  rhythmicContrast: 0.05852580070495605
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/866c9396-65d0-4eb0-b049-e67eaa16325e.png
 content_rating:
   adult: false
-typography_spectrum: 0.4336357989814132
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/39943f45-1ab9-40d7-8e4e-ace711276449.png
