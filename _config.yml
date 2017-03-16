@@ -36,9 +36,6 @@ navigation:
   - name: Reference
     url: 'http://connect365.online/ovo-su-nase-reference'
     type: external
-  - name: Portfolio
-    url: 'http://portfolio.connect365.online/'
-    type: external
   - name: Blog
     url: 'http://blog.connect365.online/'
     type: external
