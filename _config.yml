@@ -1,5 +1,6 @@
-layout_spectrum: 0.10234028380041445
 typography_spectrum: 0.5762623165990456
+content_rating:
+  adult: false
 color:
   lightness: 0.9361866333016592
   brandColors:
@@ -11,19 +12,16 @@ color:
   saturation: 0.2431790333030063
   brandStrength: 0.9974764048786705
   rhythmicContrast: 0.05049392376924948
-name: Agencija Connect Zanimljivosti
+github: true
+opengraph: {}
+layout_spectrum: 0.10234028380041445
 analytics:
   google: UA-19682937-18
-purpose:
-  - type: external
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
-    label: Zatraži ponudu
-  - type: contact
-    url: 'tel:38763313588'
-    label: Pozovi +38763313588
-github: true
-description: Pročitajte i saznajte novosti koje smo prikupili za vas
+author: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39943f45-1ab9-40d7-8e4e-ace711276449.png
+name: Agencija Connect Zanimljivosti
+url: 'http://zanimljivosti.connect365.online/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -31,7 +29,24 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author: {}
+navigation:
+  - name: Home
+    url: 'http://connect365.online/'
+    type: external
+  - name: Portfolio
+    url: 'http://portfolio.connect365.online/'
+    type: external
+  - name: Blog
+    url: 'http://blog.connect365.online/'
+    type: external
+  - name: Kontakt
+    url: 'http://connect365.online/o-nama'
+    type: external
+  - name: Reference
+    url: 'http://connect365.online/ovo-su-nase-reference'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/866c9396-65d0-4eb0-b049-e67eaa16325e.png
 collections:
   - index:
       path: /
@@ -44,6 +59,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Zanimljivosti i korisne informacije
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -54,8 +70,27 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
       datePublished: null
+      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
+      keywords:
+        - naslovna
+        - strana
+        - duration
+        - views
+        - kviz
+        - nikola
+        - sre
+        - svet
+        - mori
+        - rouzin
+      related: []
+      author:
+        - name: CONNECT/Tržišne komunikacije
+          url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Naslovna
+      '@type': VideoObject
       app_links:
         - app_store_id: '544007664'
           namespace: ai
@@ -93,54 +128,22 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      author:
-        - name: CONNECT/Tržišne komunikacije
-          url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
-          avatar: {}
-      inLanguage: en
-      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
-      title: Naslovna
-      '@type': VideoObject
-      keywords:
-        - naslovna
-        - strana
-        - duration
-        - views
-        - kviz
-        - nikola
-        - sre
-        - svet
-        - mori
-        - rouzin
       publisher:
         favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
         url: 'https://www.youtube.com/'
         name: YouTube
         domain: youtu.be
-      '@context': 'http://schema.org'
-      related: []
+      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
+      inLanguage: en
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: Home
-    url: 'http://connect365.online/'
-    type: external
-  - name: Portfolio
-    url: 'http://portfolio.connect365.online/'
-    type: external
-  - name: Blog
-    url: 'http://blog.connect365.online/'
-    type: external
-  - name: Kontakt
-    url: 'http://connect365.online/o-nama'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/866c9396-65d0-4eb0-b049-e67eaa16325e.png
-content_rating:
-  adult: false
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39943f45-1ab9-40d7-8e4e-ace711276449.png
-title: Zanimljivosti i korisne informacije
-url: 'http://zanimljivosti.connect365.online/'
+description: Pročitajte i saznajte novosti koje smo prikupili za vas
+purpose:
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
+    label: Zatraži ponudu
+  - type: contact
+    url: 'tel:38763313588'
+    label: Pozovi +38763313588
