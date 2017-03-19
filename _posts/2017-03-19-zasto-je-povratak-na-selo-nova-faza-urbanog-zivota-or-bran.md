@@ -1,24 +1,21 @@
 ---
 publisher: {}
-dateModified: '2017-03-19T14:01:50.144Z'
+dateModified: '2017-03-19T14:03:39.925Z'
 via: {}
+isBasedOnUrl: 'https://www.youtube.com/watch?v=hvK8y7Sb_rU&sns=em'
+title: >-
+  Zašto je „povratak na selo" nova faza urbanog života? | BRANIMIR BRKLJAČ |
+  TEDxDubrovnik
 description: >-
   „Nijedna stvar nije bila stvorena, a da prethodno nije bila odsanjana. Niti
   jedan projekt nije bio uspješan ako nije prošao tri faze: prvu, u kojoj ti se
   smiju jer misle da si lud pa te ismijavaju jer misle da si previše zabrazdio
   da bi ti se na kraju pridružili."
-title: >-
-  Zašto je „povratak na selo" nova faza urbanog života? | BRANIMIR BRKLJAČ |
-  TEDxDubrovnik
 inFeed: true
-author:
-  - name: TEDx Talks
-    url: 'https://www.youtube.com/user/TEDxTalks'
-    avatar: {}
-datePublished: '2017-03-19T14:02:02.826Z'
+author: []
+datePublished: '2017-03-19T14:03:44.448Z'
 starred: true
-datePublishedOriginal: '2017-03-19T14:02:02.826Z'
-isBasedOnUrl: 'https://www.youtube.com/watch?v=hvK8y7Sb_rU&sns=em'
+datePublishedOriginal: '2017-03-19T14:03:44.448Z'
 sourcePath: >-
   _posts/2017-03-19-zasto-je-povratak-na-selo-nova-faza-urbanog-zivota-or-bran.md
 _type: MediaObject
