@@ -18,14 +18,14 @@ isBasedOnUrl: >-
 title: >-
   Ultimativni vodič kroz digitalni marketing - sve na jednom mestu | Istok
   Pavlović
-datePublished: '2017-03-16T20:08:31.003Z'
-dateModified: '2017-03-16T20:07:57.465Z'
-datePublishedOriginal: '2017-03-16T20:08:31.003Z'
+datePublished: '2017-06-16T13:37:25.574Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-16-ultimativni-vodic-kroz-digitalni-marketing-sve-na-jednom-m.md
+starred: false
+datePublishedOriginal: '2017-03-16T20:08:31.003Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
