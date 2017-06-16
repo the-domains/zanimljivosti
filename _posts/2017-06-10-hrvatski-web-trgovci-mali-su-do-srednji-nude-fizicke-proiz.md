@@ -22,14 +22,14 @@ isBasedOnUrl: >-
 title: >-
   Hrvatski web trgovci: Mali su do srednji, nude fizičke proizvode i nemaju
   voditelje 'shopa'
-datePublished: '2017-06-10T12:43:18.869Z'
-dateModified: '2017-06-10T12:42:40.609Z'
-datePublishedOriginal: '2017-06-10T12:43:18.869Z'
+datePublished: '2017-06-16T13:37:25.613Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-06-10-hrvatski-web-trgovci-mali-su-do-srednji-nude-fizicke-proiz.md
+starred: false
+datePublishedOriginal: '2017-06-10T12:43:18.869Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
