@@ -17,14 +17,14 @@ app_links: []
 isBasedOnUrl: >-
   http://manager.ba/clanak/nova-prodajna-strategija-zare-velike-trgovine-s-kompletnim-asortimanom
 title: 'Nova prodajna strategija Zare: Velike trgovine s kompletnim asortimanom'
-datePublished: '2017-03-19T14:03:07.554Z'
-dateModified: '2017-03-18T19:56:24.072Z'
-datePublishedOriginal: '2017-03-19T14:03:07.554Z'
+datePublished: '2017-06-16T13:37:25.611Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-19-nova-prodajna-strategija-zare-velike-trgovine-s-kompletnim.md
+starred: false
+datePublishedOriginal: '2017-03-19T14:03:07.554Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
