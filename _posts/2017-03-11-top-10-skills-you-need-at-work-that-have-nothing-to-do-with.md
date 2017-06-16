@@ -31,14 +31,14 @@ app_links: []
 isBasedOnUrl: >-
   http://lifehacker.com/top-10-skills-you-need-at-work-that-have-nothing-to-do-1738449552?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow
 title: Top 10 Skills You Need at Work That Have Nothing to Do with Your Job
-datePublished: '2017-03-11T12:59:58.696Z'
-dateModified: '2017-03-11T12:58:57.041Z'
-datePublishedOriginal: '2017-03-11T12:59:58.696Z'
+datePublished: '2017-06-16T13:37:25.594Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-11-top-10-skills-you-need-at-work-that-have-nothing-to-do-with.md
+starred: false
+datePublishedOriginal: '2017-03-11T12:59:58.696Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
