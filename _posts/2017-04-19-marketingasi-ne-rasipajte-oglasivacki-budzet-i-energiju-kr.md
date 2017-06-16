@@ -21,14 +21,14 @@ isBasedOnUrl: 'http://www.netokracija.com/izrada-landing-stranice-134848'
 title: >-
   Marketingaši, ne rasipajte oglašivački budžet i energiju, krenite u smjeru
   'landing' stranica
-datePublished: '2017-04-19T21:32:42.438Z'
-dateModified: '2017-04-19T21:31:53.141Z'
-datePublishedOriginal: '2017-04-19T21:32:42.438Z'
+datePublished: '2017-06-16T13:37:25.609Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-04-19-marketingasi-ne-rasipajte-oglasivacki-budzet-i-energiju-kr.md
+starred: false
+datePublishedOriginal: '2017-04-19T21:32:42.438Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
