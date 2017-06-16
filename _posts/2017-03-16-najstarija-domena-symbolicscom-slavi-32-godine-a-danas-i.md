@@ -22,13 +22,13 @@ isBasedOnUrl: 'http://www.netokracija.com/najstarija-domena-133366'
 title: >-
   Najstarija domena, Symbolics.com, slavi 32 godine, a danas ih je registrirano
   329,300.000!
-datePublished: '2017-03-16T20:02:03.129Z'
-dateModified: '2017-03-16T20:01:13.381Z'
-datePublishedOriginal: '2017-03-16T20:02:03.129Z'
+datePublished: '2017-06-16T13:37:25.609Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-16-najstarija-domena-symbolicscom-slavi-32-godine-a-danas-i.md
+starred: false
+datePublishedOriginal: '2017-03-16T20:02:03.129Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
