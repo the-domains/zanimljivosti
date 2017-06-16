@@ -5,8 +5,8 @@ description: >-
   selling items on eBay, or negotiating a deal on your house, you'll learn 42
   tricks to make your price seem lower. PDF Bonus: This article is 9,368 words.
   Click to download the full PDF so that you can reference it later.
-dateModified: '2017-03-28T10:20:08.357Z'
-datePublished: '2017-03-28T10:20:08.942Z'
+dateModified: '2017-06-16T13:37:24.938Z'
+datePublished: '2017-06-16T13:37:25.604Z'
 title: 42 Pricing Tricks Based on Psychology & Neuroscience
 author: []
 publisher:
@@ -16,9 +16,9 @@ publisher:
   domain: www.nickkolenda.com
 via: {}
 isBasedOnUrl: 'https://www.nickkolenda.com/psychological-pricing-strategies/#pricing-t1'
+sourcePath: _posts/2017-03-28-42-pricing-tricks-based-on-psychology-and-neuroscience.md
 starred: false
 datePublishedOriginal: '2017-03-28T10:20:08.942Z'
-sourcePath: _posts/2017-03-28-42-pricing-tricks-based-on-psychology-and-neuroscience.md
 _type: MediaObject
 
 ---
