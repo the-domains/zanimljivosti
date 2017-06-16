@@ -27,13 +27,13 @@ isBasedOnUrl: >-
 title: >-
   [video] Šta je UX? Zašto programeri i dizajneri često prave loše sajtove, i
   zašto kompanije to ne vide?
-datePublished: '2017-03-16T10:17:43.964Z'
-dateModified: '2017-03-16T10:17:35.461Z'
-datePublishedOriginal: '2017-03-16T10:17:43.964Z'
+datePublished: '2017-06-16T13:37:25.605Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-16-video-sta-je-ux-zasto-programeri-i-dizajneri-cesto-prave.md
+starred: false
+datePublishedOriginal: '2017-03-16T10:17:43.964Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
