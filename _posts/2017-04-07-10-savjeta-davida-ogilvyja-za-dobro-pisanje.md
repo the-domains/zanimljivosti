@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-04-11T13:32:00.102Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 isBasedOnUrl: >-
   http://www.media-marketing.com/vijesti/10-savjeta-davida-ogilvyja-za-dobro-pisanje/
@@ -13,7 +13,7 @@ description: >-
   7.09.1982...
 inFeed: true
 author: []
-datePublished: '2017-04-11T13:32:01.077Z'
+datePublished: '2017-06-16T13:37:25.593Z'
 sourcePath: _posts/2017-04-07-10-savjeta-davida-ogilvyja-za-dobro-pisanje.md
 starred: true
 datePublishedOriginal: '2017-04-07T19:57:55.757Z'
