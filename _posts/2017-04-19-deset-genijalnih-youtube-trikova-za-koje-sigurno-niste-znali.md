@@ -18,14 +18,14 @@ isBasedOnUrl: >-
 title: >-
   Deset genijalnih YouTube trikova za koje sigurno niste znali, a olakšat će vam
   život
-datePublished: '2017-04-19T20:35:45.066Z'
-dateModified: '2017-04-19T20:34:48.791Z'
-datePublishedOriginal: '2017-04-19T20:35:45.066Z'
+datePublished: '2017-06-16T13:37:25.605Z'
+dateModified: '2017-06-16T13:37:24.938Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-04-19-deset-genijalnih-youtube-trikova-za-koje-sigurno-niste-znali.md
+starred: false
+datePublishedOriginal: '2017-04-19T20:35:45.066Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
